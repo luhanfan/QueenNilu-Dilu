@@ -7,17 +7,17 @@ const chalk = require('chalk')
 */
 
 //Owner Number & Name 
-global.owner = ['94767438882'] //ur owner number
-global.ownername = "Janith sadanuwan" //ur owner name
+global.owner = ['94764490025'] //ur owner number
+global.ownername = "Dilu X Shadow" //ur owner name
 
 //Bot Name 
-global.botname = 'ǫᴜᴇᴇɴ ɴɪʟᴜ' //ur bot name
-global.wm = "ǫᴜᴇᴇɴ ɴɪʟᴜ" //ur watermark
+global.botname = 'Queen Nilu' //ur bot name
+global.wm = "Queen Nilu" //ur watermark
 
 global.keyopenai = "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",
 //React Messages 
 global.OWNER_REACT = '🥀' //Owner's Messages react emoji
-global.AUTO_REACT = 'true' // React Messags auto
+global.AUTO_REACT = 'false' // React Messags auto
 
 
 /*
@@ -27,7 +27,7 @@ BOT SETTINGS
 //Language English = 'EN' , Sinhala = 'SI' , Tamil= 'TL'
 global.LANG = 'EN'
 
-global.READ_MASSAGE = true
+global.READ_MASSAGE = false
 
 // enable desable Girls Voice Reply
 global.VOICE_REPLY = true
@@ -61,7 +61,7 @@ global.SONG_UP = '```⬆️ Uploding Your Song...```'
 global.SEX_VIDEO_DOWNLOAD ='true'
 
 //Kick Message 
-global.KICK_MSG = ' ' 
+global.KICK_MSG = 'kick' 
 
 //Links (URLS)
 global.ytname = "YT: janithsadanuwan" //ur yt chanel name
@@ -75,7 +75,7 @@ global.alivelogo = process.env.ALIVE_LOGO || `https://te.legra.ph/file/a9293226a
 global.alive = process.env.ALIVE_MESSAGE 
 
 //Sticker Making 
-global.packname = "ǫᴜᴇᴇɴ ɴɪʟᴜ 💃" 
+global.packname = "Quern Nilu💃" 
 
 //Anti Bad Word
 global.ANTI_BADWORD = 'true'
@@ -85,7 +85,7 @@ global.antilink = 'true'
 
 
 //OTHERS  
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 
 
